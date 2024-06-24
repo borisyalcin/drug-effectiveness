@@ -13,3 +13,8 @@ The survival rate of mice under the Capomulin regimen was higher than those unde
 The results were statistically significant, demonstrating Capomulin's effectiveness in reducing tumor growth and improving survival rates.
 
 These findings support the potential of Capomulin as a viable treatment option for SCC and provide a strong foundation for further research and development. The detailed tables and figures generated will be included in the technical report to provide a comprehensive overview of the study's outcomes.
+
+## Observations and Insights
+* The correlation coefficient between mouse weight and average tumor volume for the Capomulin regimen is 0.84 which helps us to understand that our calculations are correct and there is a strong relationship between the relative movements of two variables.
+* The population of male mice is slightly higher than several females. However, we need more data and analysis to figure out which drug regimen is more affective on which gender.
+* Based on this data, Capomulin seems to be the clear winner in terms of efficacy at reducing tumor size
