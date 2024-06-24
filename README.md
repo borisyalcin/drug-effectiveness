@@ -16,5 +16,9 @@ These findings support the potential of Capomulin as a viable treatment option f
 
 ## Observations and Insights
 * The correlation coefficient between mouse weight and average tumor volume for the Capomulin regimen is 0.84 which helps us to understand that our calculations are correct and there is a strong relationship between the relative movements of two variables.
-* The population of male mice is slightly higher than several females. However, we need more data and analysis to figure out which drug regimen is more affective on which gender.
+![image](https://github.com/borisyalcin/drug-effectiveness/assets/155834534/2d565759-ba2b-4abb-927e-25e1dfc9d650)
+* The population of male mice is slightly higher than several females. However, we need more data and analysis to figure out which drug regimen is more effective on which gender.
+![image](https://github.com/borisyalcin/drug-effectiveness/assets/155834534/f1f79d36-3d2b-4223-8089-3267b7ad563b)
 * Based on this data, Capomulin seems to be the clear winner in terms of efficacy at reducing tumor size
+![image](https://github.com/borisyalcin/drug-effectiveness/assets/155834534/3e2ab891-e9a0-4895-8ff1-e25f095975c6)
+
